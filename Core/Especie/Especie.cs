@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Core.Models;
+﻿namespace Core.Especie;
+using Core.Usuario;
 
 public partial class Especie
 {

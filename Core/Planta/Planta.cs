@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Core.Models;
-
+﻿namespace Core.Planta;
+using Core.Direccion;
 public partial class Planta
 {
     public int PlantaId { get; set; }

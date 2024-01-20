@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Core.Models;
-
+﻿namespace Core.Usuario;
+using Core.Direccion;
+using Core.Especie;
 public partial class Usuario
 {
     public int UsuarioId { get; set; }
