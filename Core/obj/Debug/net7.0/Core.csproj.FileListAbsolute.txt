@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\bin\Debug\net7.0\Core.dll
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.sourcelink.json
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.dll
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Escritorio\PlantasBahiaBlanca\Core\obj\Debug\net7.0\ref\Core.dll
